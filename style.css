@@ -59,6 +59,7 @@ footer{
     padding: 2rem;
     font-size: 1.4Vw;
     transform-style: preserve-3d;
+    transition: transform 300ms ease-in-out;
 }
 
 .pergunta-cartao{
