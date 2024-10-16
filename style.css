@@ -61,6 +61,10 @@ footer{
 }
 
 .pergunta-cartao{
-    font-weight: 700;
+    font-weight: 500;
+}
+
+.resposta-cartao{
+    font-size: 700;
     color: var(--destaque);
 }
