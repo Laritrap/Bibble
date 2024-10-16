@@ -43,3 +43,9 @@ footer{
     height: 100%;
     text-align: center;
 }
+
+.conteudo-catao h3{
+    color: var(--destaque);
+    border: 1px solid var(--destaque);
+    
+}
