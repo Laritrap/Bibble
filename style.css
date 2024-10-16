@@ -38,13 +38,13 @@ footer{
     margin: 1rem;
 }
 
-.conteudo-catao{
+.conteudo-cartao{
     background-color: var(--cartao-frente);
     height: 100%;
     text-align: center;
 }
 
-.conteudo-catao h3{
+.conteudo-cartao h3{
     color: var(--destaque);
     border: 1px solid var(--destaque);
     position: absolute;
@@ -54,8 +54,12 @@ footer{
     border-radius: 0.6rem;
     font-size: 1Vw;
 }
-.conteudo-catao p{
+.conteudo-cartao p{
     margin-top: 4rem;
     padding: 2rem;
     font-size: 1.4Vw;
+}
+
+.pergunta-cartao{
+
 }
