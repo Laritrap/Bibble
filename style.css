@@ -58,6 +58,7 @@ footer{
     margin-top: 4rem;
     padding: 2rem;
     font-size: 1.4Vw;
+    transform-style: preserve-3d;
 }
 
 .pergunta-cartao{
