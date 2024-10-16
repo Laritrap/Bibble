@@ -113,7 +113,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Matématica(raciocínio lógico)',
-    'Há um pato entre dois patos, um pato atrás de um pato e um pato na frente de outro pato. De quantos patos estamos falando?',
-    '3 patos'
+    'Bioeecnologia',
+    'Qual é a função da biotecnologia verde?',
+    'Ela ajua na agriculturra'
 )
