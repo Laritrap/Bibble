@@ -68,3 +68,6 @@ footer{
     font-size: 700;
     color: var(--destaque);
 }
+.cartao:hover{
+    transform: rotateY(180deg);
+}
