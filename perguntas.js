@@ -91,12 +91,12 @@ criaCartao(
 criaCartao(
     'Biologia',
     'qual é o agente vetor da doença de chagas?',
-    'bicho-barbeiro'
+    'Bicho-barbeiro'
 )
 
 criaCartao(
     'Quimica',
-    'qual é o prefixo da nomenclatura quando se tem 4 carbonos na cadeia principal?',
+    'Qual é o prefixo da nomenclatura quando se tem 4 carbonos na cadeia principal?',
     'But'
 )
 
