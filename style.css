@@ -55,6 +55,7 @@ footer{
     text-align: left;
     border-radius: 0.6rem;
     font-size: 1Vw;
+    backface-visibility: hidden;
 }
 .conteudo-cartao p{
     margin-top: 4rem;
@@ -73,4 +74,8 @@ footer{
 }
 .cartao:hover .conteudo-cartao{
     transform: rotateY(180deg);
+}
+
+.pergunta-cartao, .resposta-cartao{
+    backface-visibility: hidden;
 }
