@@ -113,7 +113,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Bioeecnologia',
+    'Biotecnologia',
     'Qual é a função da biotecnologia verde?',
     'Ela ajua na agriculturra'
 )
